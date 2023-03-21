@@ -1,0 +1,33 @@
+body{
+ background-color: black;
+}
+.card{
+ background-color: floralwhite;
+ border-radius: 8px;
+ overflow: hidden;
+ margin-top: 100px;
+}
+
+.cover{
+ height: 200px;
+ background-color: #ececec;
+}
+
+.square{
+ width: 80px;
+ height: 80px;
+ border-radius: 5px;
+ margin-bottom: 20px;
+ background-color: #ececec;
+}
+
+.info{
+ padding: 20px;
+}
+
+.line{
+ height: 30px;
+ border-radius: 2px;
+ margin-bottom: 20px;
+ background-color: #ececec;
+}

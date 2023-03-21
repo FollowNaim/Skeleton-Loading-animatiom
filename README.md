@@ -1,5 +1,5 @@
 # Skeleton-Loading-animatiom
 skeleton loading animation by HTML and CSS.
+- See Here.
 
-
-https://follownaim.github.io/Skeleton-Loading-animatiom/
+https://animation-new.vercel.app/

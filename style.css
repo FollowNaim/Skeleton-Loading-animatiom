@@ -31,3 +31,16 @@ body{
  margin-bottom: 20px;
  background-color: #ececec;
 }
+
+.cover, .line, .square{
+ background-image: linear-gradient(120deg, #ececec 50%, #fafafa 60%, #fafafa 61%, #ececec 70%);
+ background-size: 200px;
+ background-position: 100% 0;
+ animation: naim 2s linear infinite;
+}
+
+@keyframes naim{
+ 100%{
+  background-position: -100% 0;
+ }
+}

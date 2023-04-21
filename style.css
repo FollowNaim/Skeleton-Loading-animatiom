@@ -96,7 +96,7 @@ body{
  border: 1px solid #040a29;
  overflow: hidden;
  color: #fff;
- 
+ border-radius: 5px;
 }
 
 .container a:hover:before
